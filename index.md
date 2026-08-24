@@ -7,7 +7,7 @@ This site is where I document hands-on lab work, investigations, and write-ups a
 ## Recent Write-ups
 *(links to individual posts will go here as I publish them)*
 
-[See all write-ups ->] (coreyshaw75.github.io /writeups.md)
+[See all write-ups ->](writeups.md)
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/cshaw89/)
