@@ -4,8 +4,10 @@ IT professional transitioning into cybersecurity, currently working as a Tier 3 
 
 This site is where I document hands-on lab work, investigations, and write-ups as I build toward a SOC analyst role — mostly TryHackMe rooms, LetsDefend investigations, and projects from my home lab.
 
-## Writeups
+## Recent Write-ups
 *(links to individual posts will go here as I publish them)*
+
+[See all write-ups ->] (writeups.md)
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/cshaw89/)
